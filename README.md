@@ -10,7 +10,7 @@ Build a popular schema for a hospital database.
 - Wrote 5 ‘canned’ or commonly used queries in the hospital setting
 
 # Documentation
-- Includes ER diagram
+- JPEG Includes ER diagram
 - PDF includes structured english and 'canned' queries
 
 
